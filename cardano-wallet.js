@@ -1,5 +1,5 @@
-
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 class DkCardanoWallet {
 }
-
-module.exports = DkCardanoWallet;
+exports.default = DkCardanoWallet;
